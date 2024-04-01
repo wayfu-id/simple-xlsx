@@ -1,6 +1,6 @@
 {
   "name": "@wayfu/simple-xlsx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple XLSX Reader and Writer",
   "type": "module",
   "main": "index.js",
